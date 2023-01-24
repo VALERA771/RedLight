@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedLignt", "RedLignt\RedLignt.csproj", "{4F047213-007D-4D10-A2E3-1E94D4D80667}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F047213-007D-4D10-A2E3-1E94D4D80667}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F047213-007D-4D10-A2E3-1E94D4D80667}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F047213-007D-4D10-A2E3-1E94D4D80667}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F047213-007D-4D10-A2E3-1E94D4D80667}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F139921-D642-4FCD-A514-80F030E97661}
+	EndGlobalSection
+EndGlobal
